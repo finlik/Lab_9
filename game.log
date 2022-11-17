@@ -1,0 +1,18 @@
+2022-11-17 17:30:04,170 INFO User started program
+2022-11-17 17:30:04,175 INFO Programm printed "Программа загадает случайное число от 1 до последнего числа, заданного пользователем"
+2022-11-17 17:30:05,708 INFO Users input 7
+2022-11-17 17:30:07,030 INFO Users input 3
+2022-11-17 17:30:07,030 INFO Programm selects 5
+2022-11-17 17:30:09,402 INFO Users input 5
+2022-11-17 17:30:09,406 INFO Programm printed "Поздравляю! Вы угадали число!"
+2022-11-17 17:30:09,406 INFO Programm ended
+2022-11-17 17:30:31,659 INFO User started program
+2022-11-17 17:30:31,670 INFO Programm printed "Программа загадает случайное число от 1 до последнего числа, заданного пользователем"
+2022-11-17 17:30:37,883 INFO Users input 10
+2022-11-17 17:30:38,280 INFO Users input 5
+2022-11-17 17:30:38,282 INFO Programm selects 5
+2022-11-17 17:30:39,616 INFO Users input 3
+2022-11-17 17:30:39,621 INFO Programm printed "Ваше число меньше того, что загадала программа"
+2022-11-17 17:30:40,777 INFO Users input 5
+2022-11-17 17:30:40,782 INFO Programm printed "Поздравляю! Вы угадали число!"
+2022-11-17 17:30:40,782 INFO Programm ended
